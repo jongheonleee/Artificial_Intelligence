@@ -13,7 +13,6 @@
     {% from "_formhelpers.html" import render_field %}
 
     <form method="post" action="/results">
-      {% comment %} here's error {% endcomment %}
       <dl>{{ render_field(form.moviereview, cols='30', rows='10') }}</dl>
       <div>
         <input type="submit" value="Submit review" name="submit_btn" />
