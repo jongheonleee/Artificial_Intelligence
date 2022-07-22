@@ -85,4 +85,6 @@ def feedback():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    clf = update_model(db_path=db,
+                       model=clf,
+                       batch_size=10000)
