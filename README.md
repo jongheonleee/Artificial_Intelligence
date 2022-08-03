@@ -1,6 +1,6 @@
 # Artificial_Intelligence
 
-# first my plan for studing AI👨🏻‍💻
+## first my plan for studing AI👨🏻‍💻
 <br>
 
 ### read three books!!📚
@@ -15,8 +15,10 @@
 </p>
 
 
-### try to make business models
+## try to make business models
 <br>
 
 right after i finished reading three books, make the plan detail<br>
 by the way, i want to make the models which are algorithmic trading, recommendations systems😸
+
+## make some projects!!
