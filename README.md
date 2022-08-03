@@ -1,12 +1,11 @@
 ## first my plan for studing AI👨🏻‍💻
 <br>
-
 ### read three books!!📚
 <ol>
-  <li><a href="https://github.com/jongheonleee/Artificial_Intelligence/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B5%90%EA%B3%BC%EC%84%9C">머신러닝교과서</a></li>
+  <li><a href="https://github.com/jongheonleee/Artificial_Intelligence/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B5%90%EA%B3%BC%EC%84%9C">머신러닝교과서</a></li><br>
   
-  <li>헨즈온머신러닝</li>
-  <li>파이썬 머신러닝 완벽가이드</li>
+  <li>헨즈온머신러닝</li><br>
+  <li>파이썬 머신러닝 완벽가이드</li><br>
 </ol>
 
 <p>
