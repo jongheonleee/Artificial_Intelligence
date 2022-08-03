@@ -1,5 +1,3 @@
-# Artificial_Intelligence
-
 ## first my plan for studing AI👨🏻‍💻
 <br>
 
