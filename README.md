@@ -1,5 +1,4 @@
 ## first my plan for studing AI👨🏻‍💻
-<br>
 
 ### read three books!!📚
 <ol>
